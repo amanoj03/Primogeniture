@@ -1,0 +1,14 @@
+13
+GeorgeVI unknown 1895 1952
+Elizabeth GeorgeVI 1926 0
+Margaret GeorgeVI 1930 2002
+Charles Elizabeth 1948 0
+Anne Elizabeth 1950 0
+Andrew Elizabeth 1960 0
+Edward Elizabeth 1964 0
+William Charles 1982 0
+Harry Charles 1984 0
+George William 2013 0
+Charlotte William 2015 0
+Louis William 2018 0
+ArchieHarrison Harry 2019 0
