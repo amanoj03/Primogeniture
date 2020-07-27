@@ -1,3 +1,3 @@
 # Primogeniture
-Order of succession
+Order of succession\n
 A BASIC PYTHON FILE TO FIND THE NEXT HEIR
